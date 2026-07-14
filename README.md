@@ -31,15 +31,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cmribeiro1&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmribeiro1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/caio-moraes-ribeiro/
