@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Opa 👋</h1>
 
 <p align="center">
   💻 Software Engineer <br>
@@ -12,7 +12,6 @@
 
 - 🎯 Estudando para me tornar um Engenheiro de Software
 - 💡 Curto resolver problemas e entender como as coisas funcionam por trás
-- 🔧 Interesse maior em desenvolvimento backend
 
 ---
 
@@ -26,8 +25,8 @@
 
 ## 📚 Atualmente estudando
 
-- Estruturas de dados e algoritmos
-- Backend development
+- Arquitetura de Banco de Dados
+- Domain-Driven Design
 - Boas práticas de programação
 
 ---
@@ -56,5 +55,5 @@
 ---
 
 <p align="center">
-  ⭐ Valeu por passar aqui!
+  Valeu!
 </p>
